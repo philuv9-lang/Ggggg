@@ -1,0 +1,9 @@
+name: investment_calculator_app
+description: A Flutter app for calculating investments.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+# Add other dependencies as needed
